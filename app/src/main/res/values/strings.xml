@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">TourismGuide</string>
+    <string name="app_name">Tourism Guide</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort</string>
+    <string name="sort_rating">Rating</string>
+    <string name="sort_numReviews">NumReviews</string>
+
 </resources>
